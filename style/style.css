@@ -107,6 +107,11 @@ h2{
     color: rgb(153, 150, 150);
 }
 
+.attribution{
+    margin-top: 120px;
+    text-align: center;
+}
+
 @media (min-width: 375px) and (max-width:425px){
     body{
         background: url(/images/bg-pattern-top.svg) -800px -650px no-repeat, 
