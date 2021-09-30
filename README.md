@@ -46,7 +46,7 @@ I learned some css properties, like make a background with two diferent images
 
 ### Continued development
 
-I want to continue leraning about css desig
+I want to continue leraning about css design
 
 
 ## Author
